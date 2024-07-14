@@ -1,0 +1,101 @@
+Customer ID,Customer Age,City,State
+C001,30,Mumbai,Maharashtra
+C002,35,Mumbai,Maharashtra
+C003,36,Mumbai,Maharashtra
+C004,40,Pune,Maharashtra
+C005,25,Pune,Maharashtra
+C006,16,Pune,Maharashtra
+C007,23,Pune,Maharashtra
+C008,22,Pune,Maharashtra
+C009,17,Hyderabad,Telangana
+C010,19,Hyderabad,Telangana
+C011,18,Hyderabad,Telangana
+C012,20,Hyderabad,Telangana
+C013,22,Raipur,Chhatisgarh
+C014,25,Raipur,Chhatisgarh
+C015,27,Ahmedabad,Gujrat
+C016,29,Ahmedabad,Gujrat
+C017,23,Ahmedabad,Gujrat
+C018,25,Ahmedabad,Gujrat
+C019,24,Ahmedabad,Gujrat
+C020,15,Ahmedabad,Gujrat
+C021,19,Vadodara,Gujrat
+C022,19,Vadodara,Gujrat
+C023,19,Vadodara,Gujrat
+C024,22,Vadodara,Gujrat
+C025,22,Vadodara,Gujrat
+C026,22,Surat,Gujrat
+C027,22,Surat,Gujrat
+C028,29,Surat,Gujrat
+C029,29,Surat,Gujrat
+C030,29,Bengaluru,Karnataka
+C031,29,Bengaluru,Karnataka
+C032,41,Bengaluru,Karnataka
+C033,42,Bengaluru,Karnataka
+C034,43,Bengaluru,Karnataka
+C035,44,Bengaluru,Karnataka
+C036,45,Bengaluru,Karnataka
+C037,35,Bengaluru,Karnataka
+C038,36,Patna,Bihar
+C039,37,Patna,Bihar
+C040,26,Patna,Bihar
+C041,27,Patna,Bihar
+C042,28,Darbhanga,Bihar
+C043,29,Darbhanga,Bihar
+C044,30,Darbhanga,Bihar
+C045,31,Nalanda,Bihar
+C046,32,Nalanda,Bihar
+C047,33,Nalanda,Bihar
+C048,44,Gaya,Bihar
+C049,45,Gaya,Bihar
+C050,46,Bhopal,Madhya Pradesh
+C051,47,Bhopal,Madhya Pradesh
+C052,48,Bhopal,Madhya Pradesh
+C053,49,Bhopal,Madhya Pradesh
+C054,17,Sagar,Madhya Pradesh
+C055,18,Sagar,Madhya Pradesh
+C056,19,Sagar,Madhya Pradesh
+C057,20,Sagar,Madhya Pradesh
+C058,21,Indore,Madhya Pradesh
+C059,22,Indore,Madhya Pradesh
+C060,16,Kanpur,Uttar Pradesh
+C061,17,Kanpur,Uttar Pradesh
+C062,18,Kanpur,Uttar Pradesh
+C063,19,Kanpur,Uttar Pradesh
+C064,20,Aligarh,Uttar Pradesh
+C065,21,Aligarh,Uttar Pradesh
+C066,22,Aligarh,Uttar Pradesh
+C067,23,Aligarh,Uttar Pradesh
+C068,18,Prayagraj,Uttar Pradesh
+C069,18,Prayagraj,Uttar Pradesh
+C070,18,Prayagraj,Uttar Pradesh
+C071,18,Prayagraj,Uttar Pradesh
+C072,18,Prayagraj,Uttar Pradesh
+C073,18,Prayagraj,Uttar Pradesh
+C074,23,Jalandhar,Punjab
+C075,24,Jalandhar,Punjab
+C076,25,Jalandhar,Punjab
+C077,26,Jalandhar,Punjab
+C078,27,Amritsar,Punjab
+C079,24,Amritsar,Punjab
+C080,24,Amritsar,Punjab
+C081,24,Amritsar,Punjab
+C082,24,Amritsar,Punjab
+C083,24,Patiala,Punjab
+C084,24,Patiala,Punjab
+C085,24,Patiala,Punjab
+C086,24,Patiala,Punjab
+C087,24,Patiala,Punjab
+C088,22,Patiala,Punjab
+C089,23,Jaipur,Rajasthan
+C090,24,Jaipur,Rajasthan
+C091,25,Jaipur,Rajasthan
+C092,26,Jaipur,Rajasthan
+C093,27,Jaipur,Rajasthan
+C094,34,Jaipur,Rajasthan
+C095,35,Jodhpur,Rajasthan
+C096,36,Jodhpur,Rajasthan
+C097,37,Jodhpur,Rajasthan
+C098,38,Udaipur,Rajasthan
+C099,39,Udaipur,Rajasthan
+C100,40,Udaipur,Rajasthan
